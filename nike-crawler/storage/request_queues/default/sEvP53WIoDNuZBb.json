@@ -1,0 +1,24 @@
+{
+  "id": "sEvP53WIoDNuZBb",
+  "unique_key": "https://www.nike.com/sg/t/cortez-easyon-shoes-7zt6zl/dm0952-401",
+  "order_no": "1750343599177.327000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/cortez-easyon-shoes-7zT6Zl/DM0952-401",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/cortez-easyon-shoes-7zt6zl/dm0952-401",
+    "id": "sEvP53WIoDNuZBb"
+  }
+}

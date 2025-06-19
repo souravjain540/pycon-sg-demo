@@ -1,0 +1,24 @@
+{
+  "id": "Xm6IviaUulJa647",
+  "unique_key": "https://www.nike.com/sg/t/star-runner-4-shoes-dlcv7p/dx7616-408",
+  "order_no": "1750343599005.326000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/star-runner-4-shoes-DlCV7P/DX7616-408",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/star-runner-4-shoes-dlcv7p/dx7616-408",
+    "id": "Xm6IviaUulJa647"
+  }
+}

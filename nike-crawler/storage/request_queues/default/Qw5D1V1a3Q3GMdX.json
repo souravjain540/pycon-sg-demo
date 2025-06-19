@@ -1,0 +1,24 @@
+{
+  "id": "Qw5D1V1a3Q3GMdX",
+  "unique_key": "https://www.nike.com/sg/t/air-max-sndr-shoes-5mjsfs/fz2068-100",
+  "order_no": "1750343576024.128000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-max-sndr-shoes-5mJSfs/FZ2068-100",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/air-max-sndr-shoes-5mjsfs/fz2068-100",
+    "id": "Qw5D1V1a3Q3GMdX"
+  }
+}

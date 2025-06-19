@@ -1,0 +1,24 @@
+{
+  "id": "CxpLs7GYesZDfLv",
+  "unique_key": "https://www.nike.com/sg/t/air-max-sc-shoes-4hlrz3/cz5361-112",
+  "order_no": "1750343599148.176000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-max-sc-shoes-4HLrZ3/CZ5361-112",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/air-max-sc-shoes-4hlrz3/cz5361-112",
+    "id": "CxpLs7GYesZDfLv"
+  }
+}

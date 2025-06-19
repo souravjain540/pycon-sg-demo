@@ -1,0 +1,24 @@
+{
+  "id": "h672x6hTw4xziWv",
+  "unique_key": "https://www.nike.com/sg/t/air-max-dn-older-shoes-skfxz6/hv5257-700",
+  "order_no": "1750343599102.379000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-max-dn-older-shoes-SKFXZ6/HV5257-700",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/air-max-dn-older-shoes-skfxz6/hv5257-700",
+    "id": "h672x6hTw4xziWv"
+  }
+}

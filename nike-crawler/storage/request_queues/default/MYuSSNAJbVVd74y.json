@@ -1,0 +1,24 @@
+{
+  "id": "MYuSSNAJbVVd74y",
+  "unique_key": "https://www.nike.com/sg/t/jr-mercurial-superfly-10-club-kylian-mbappe-older-tf-high-top-football-shoes-rp8nf1/hj6933-500",
+  "order_no": "1750343599077.045000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/jr-mercurial-superfly-10-club-kylian-mbappe-older-tf-high-top-football-shoes-rP8nF1/HJ6933-500",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/jr-mercurial-superfly-10-club-kylian-mbappe-older-tf-high-top-football-shoes-rp8nf1/hj6933-500",
+    "id": "MYuSSNAJbVVd74y"
+  }
+}

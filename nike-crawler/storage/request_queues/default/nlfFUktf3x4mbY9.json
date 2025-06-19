@@ -1,0 +1,24 @@
+{
+  "id": "nlfFUktf3x4mbY9",
+  "unique_key": "https://www.nike.com/sg/t/sb-alleyoop-older-skate-shoe-00fsbt/cj0883-101",
+  "order_no": "1750343599146.518000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/sb-alleyoop-older-skate-shoe-00fSBT/CJ0883-101",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/sb-alleyoop-older-skate-shoe-00fsbt/cj0883-101",
+    "id": "nlfFUktf3x4mbY9"
+  }
+}

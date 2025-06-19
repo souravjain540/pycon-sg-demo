@@ -1,0 +1,24 @@
+{
+  "id": "9GWGGytyilp9M0G",
+  "unique_key": "https://www.nike.com/sg/t/court-borough-low-recraft-younger-shoes-bbnbnv/hm6298-480",
+  "order_no": "1750343599086.514000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/court-borough-low-recraft-younger-shoes-bbnBNv/HM6298-480",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/court-borough-low-recraft-younger-shoes-bbnbnv/hm6298-480",
+    "id": "9GWGGytyilp9M0G"
+  }
+}

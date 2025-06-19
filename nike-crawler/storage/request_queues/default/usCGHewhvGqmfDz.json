@@ -1,0 +1,24 @@
+{
+  "id": "usCGHewhvGqmfDz",
+  "unique_key": "https://www.nike.com/sg/t/dynamo-free-shoes-2z1vtb/ib7246-101",
+  "order_no": "1750343599106.795000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/dynamo-free-shoes-2Z1VTB/IB7246-101",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/dynamo-free-shoes-2z1vtb/ib7246-101",
+    "id": "usCGHewhvGqmfDz"
+  }
+}

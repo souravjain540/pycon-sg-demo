@@ -1,0 +1,25 @@
+{
+  "id": "ANr0fGpJuoLu5Gn",
+  "unique_key": "https://www.nike.com/sg/t/air-max-koko-sandal-ktwc9n/ci8798-102",
+  "order_no": null,
+  "handled_at": "2025-06-19 14:35:15.933831+00:00",
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-max-koko-sandal-ktWc9N/CI8798-102",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.nike.com/sg/t/air-max-koko-sandal-ktWc9N/CI8798-102",
+    "handled_at": "2025-06-19 14:35:15.933831+00:00",
+    "unique_key": "https://www.nike.com/sg/t/air-max-koko-sandal-ktwc9n/ci8798-102",
+    "id": "ANr0fGpJuoLu5Gn"
+  }
+}

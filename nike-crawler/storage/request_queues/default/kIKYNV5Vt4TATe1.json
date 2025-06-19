@@ -1,0 +1,24 @@
+{
+  "id": "kIKYNV5Vt4TATe1",
+  "unique_key": "https://www.nike.com/sg/t/jordan-23-72-easyon-older-shoes-xzcnsw/hf3416-001",
+  "order_no": "1750343599206.793000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/jordan-23-72-easyon-older-shoes-XzcNSW/HF3416-001",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/jordan-23-72-easyon-older-shoes-xzcnsw/hf3416-001",
+    "id": "kIKYNV5Vt4TATe1"
+  }
+}

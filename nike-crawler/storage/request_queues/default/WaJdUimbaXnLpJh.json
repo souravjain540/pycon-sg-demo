@@ -1,0 +1,24 @@
+{
+  "id": "WaJdUimbaXnLpJh",
+  "unique_key": "https://www.nike.com/sg/t/isofly-older-basketball-shoes-fxx7gh/fn4384-001",
+  "order_no": "1750343598918.426000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/isofly-older-basketball-shoes-fXX7gH/FN4384-001",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/isofly-older-basketball-shoes-fxx7gh/fn4384-001",
+    "id": "WaJdUimbaXnLpJh"
+  }
+}

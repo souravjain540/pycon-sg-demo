@@ -1,0 +1,24 @@
+{
+  "id": "vv1tgAbQM74VDRA",
+  "unique_key": "https://www.nike.com/sg/t/nocta-force-1-low-easyon-younger-shoes-q24nk8ax/hq1773-500",
+  "order_no": "1750343599094.753000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/nocta-force-1-low-easyon-younger-shoes-q24nk8Ax/HQ1773-500",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/nocta-force-1-low-easyon-younger-shoes-q24nk8ax/hq1773-500",
+    "id": "vv1tgAbQM74VDRA"
+  }
+}

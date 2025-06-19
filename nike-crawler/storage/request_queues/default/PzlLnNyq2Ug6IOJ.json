@@ -1,0 +1,24 @@
+{
+  "id": "PzlLnNyq2Ug6IOJ",
+  "unique_key": "https://www.nike.com/sg/t/jordan-85-metallic-burgundy-shoes-btll92/dv3655-161",
+  "order_no": "1750343599162.424000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/jordan-85-metallic-burgundy-shoes-BTLL92/DV3655-161",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/jordan-85-metallic-burgundy-shoes-btll92/dv3655-161",
+    "id": "PzlLnNyq2Ug6IOJ"
+  }
+}

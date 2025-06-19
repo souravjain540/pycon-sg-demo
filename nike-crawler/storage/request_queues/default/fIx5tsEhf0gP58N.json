@@ -1,0 +1,24 @@
+{
+  "id": "fIx5tsEhf0gP58N",
+  "unique_key": "https://www.nike.com/sg/t/dunk-low-older-shoes-c7t1cx/fb9109-200",
+  "order_no": "1750343599185.577000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/dunk-low-older-shoes-C7T1cx/FB9109-200",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/dunk-low-older-shoes-c7t1cx/fb9109-200",
+    "id": "fIx5tsEhf0gP58N"
+  }
+}

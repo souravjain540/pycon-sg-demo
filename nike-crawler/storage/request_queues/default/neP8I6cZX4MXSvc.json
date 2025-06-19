@@ -1,0 +1,23 @@
+{
+  "id": "neP8I6cZX4MXSvc",
+  "unique_key": "https://nike.com",
+  "order_no": null,
+  "handled_at": "2025-06-19 14:32:42.408880+00:00",
+  "request": {
+    "url": "https://nike.com/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.nike.com/sg/",
+    "handled_at": "2025-06-19 14:32:42.408880+00:00",
+    "unique_key": "https://nike.com",
+    "id": "neP8I6cZX4MXSvc"
+  }
+}

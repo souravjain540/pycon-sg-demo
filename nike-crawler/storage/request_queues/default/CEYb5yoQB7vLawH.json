@@ -1,0 +1,24 @@
+{
+  "id": "CEYb5yoQB7vLawH",
+  "unique_key": "https://www.nike.com/sg/t/jr-mercurial-vapor-16-pro-younger-older-low-top-football-boot-bcsshz/hf5448-800",
+  "order_no": "1750343599207.846000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/jr-mercurial-vapor-16-pro-younger-older-low-top-football-boot-BcSsHz/HF5448-800",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/jr-mercurial-vapor-16-pro-younger-older-low-top-football-boot-bcsshz/hf5448-800",
+    "id": "CEYb5yoQB7vLawH"
+  }
+}

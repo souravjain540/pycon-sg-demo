@@ -1,0 +1,24 @@
+{
+  "id": "JSCaH8tAYBve1ya",
+  "unique_key": "https://www.nike.com/sg/t/jordan-1-retro-high-og-younger-shoes-knjfc8/fd1412-100",
+  "order_no": "1750343599016.541000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/jordan-1-retro-high-og-younger-shoes-KnJFC8/FD1412-100",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/jordan-1-retro-high-og-younger-shoes-knjfc8/fd1412-100",
+    "id": "JSCaH8tAYBve1ya"
+  }
+}

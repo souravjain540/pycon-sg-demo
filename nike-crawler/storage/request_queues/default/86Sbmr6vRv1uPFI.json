@@ -1,0 +1,24 @@
+{
+  "id": "86Sbmr6vRv1uPFI",
+  "unique_key": "https://www.nike.com/sg/t/air-jordan-1-low-se-older-shoes-dkz2rr/hf3202-200",
+  "order_no": "1750343599204.659000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-jordan-1-low-se-older-shoes-DKZ2RR/HF3202-200",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/air-jordan-1-low-se-older-shoes-dkz2rr/hf3202-200",
+    "id": "86Sbmr6vRv1uPFI"
+  }
+}

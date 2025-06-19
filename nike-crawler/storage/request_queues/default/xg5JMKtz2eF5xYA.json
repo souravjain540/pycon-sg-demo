@@ -1,0 +1,24 @@
+{
+  "id": "xg5JMKtz2eF5xYA",
+  "unique_key": "https://www.nike.com/sg/t/air-max-90-easyon-younger-shoes-4x5nbc/hf6357-105",
+  "order_no": "1750343599130.063000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-max-90-easyon-younger-shoes-4X5NBC/HF6357-105",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/air-max-90-easyon-younger-shoes-4x5nbc/hf6357-105",
+    "id": "xg5JMKtz2eF5xYA"
+  }
+}

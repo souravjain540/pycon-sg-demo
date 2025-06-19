@@ -1,0 +1,24 @@
+{
+  "id": "GIFHHjb6RVlRb8Y",
+  "unique_key": "https://www.nike.com/sg/t/air-jordan-11-retro-legend-blue-older-shoes-kvjyo9/378038-104",
+  "order_no": "1750343599161.902000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-jordan-11-retro-legend-blue-older-shoes-kvJyO9/378038-104",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/air-jordan-11-retro-legend-blue-older-shoes-kvjyo9/378038-104",
+    "id": "GIFHHjb6RVlRb8Y"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "0CM4EPvc4uSe0Cd",
+  "unique_key": "https://www.nike.com/sg/t/air-max-bolt-older-shoe-ps5pqc/cw1626-005",
+  "order_no": "1750343599155.418000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-max-bolt-older-shoe-ps5PQC/CW1626-005",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/air-max-bolt-older-shoe-ps5pqc/cw1626-005",
+    "id": "0CM4EPvc4uSe0Cd"
+  }
+}

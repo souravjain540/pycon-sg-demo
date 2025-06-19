@@ -1,0 +1,25 @@
+{
+  "id": "4l0Tmb8TnK6lgOz",
+  "unique_key": "https://www.nike.com/sg/t/c1ty-sand-shoes-445xbq/fz3863-103",
+  "order_no": null,
+  "handled_at": "2025-06-19 14:33:33.143438+00:00",
+  "request": {
+    "url": "https://www.nike.com/sg/t/c1ty-sand-shoes-445XbQ/FZ3863-103",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.nike.com/sg/t/c1ty-sand-shoes-445XbQ/FZ3863-103",
+    "handled_at": "2025-06-19 14:33:33.143438+00:00",
+    "unique_key": "https://www.nike.com/sg/t/c1ty-sand-shoes-445xbq/fz3863-103",
+    "id": "4l0Tmb8TnK6lgOz"
+  }
+}

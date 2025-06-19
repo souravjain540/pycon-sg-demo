@@ -1,0 +1,13 @@
+{
+    "actorSpecification": 1,
+    "name": "Nike-Crawlee",
+    "title": "Nike - Crawlee",
+    "minMemoryMbytes": 2048,
+    "description": "Scrape nike shoes",
+    "version": "0.1",
+    "meta": {
+      "templateId": "nike-crawlee"
+    },
+    "input": "./input_schema.json",
+    "dockerfile": "./Dockerfile"
+  }

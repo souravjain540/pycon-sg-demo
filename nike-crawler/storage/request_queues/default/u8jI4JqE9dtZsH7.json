@@ -1,0 +1,24 @@
+{
+  "id": "u8jI4JqE9dtZsH7",
+  "unique_key": "https://www.nike.com/sg/t/kobe-viii-older-basketball-shoes-3nd2lq/fn0266-002",
+  "order_no": "1750343599022.387000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/kobe-viii-older-basketball-shoes-3nD2lQ/FN0266-002",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/kobe-viii-older-basketball-shoes-3nd2lq/fn0266-002",
+    "id": "u8jI4JqE9dtZsH7"
+  }
+}

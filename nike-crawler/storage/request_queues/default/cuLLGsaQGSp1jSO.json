@@ -1,0 +1,25 @@
+{
+  "id": "cuLLGsaQGSp1jSO",
+  "unique_key": "https://www.nike.com/sg/t/p-6000-prm-shoes-vzclnk/if0668-001",
+  "order_no": null,
+  "handled_at": "2025-06-19 14:33:18.540512+00:00",
+  "request": {
+    "url": "https://www.nike.com/sg/t/p-6000-prm-shoes-vzcLnk/IF0668-001",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.nike.com/sg/t/p-6000-prm-shoes-vzcLnk/IF0668-001",
+    "handled_at": "2025-06-19 14:33:18.540512+00:00",
+    "unique_key": "https://www.nike.com/sg/t/p-6000-prm-shoes-vzclnk/if0668-001",
+    "id": "cuLLGsaQGSp1jSO"
+  }
+}

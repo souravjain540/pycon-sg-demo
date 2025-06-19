@@ -1,0 +1,24 @@
+{
+  "id": "iDuSoQYgZicRFHQ",
+  "unique_key": "https://www.nike.com/sg/t/air-max-1-easyon-younger-shoes-hgp7pt/dz3308-010",
+  "order_no": "1750343599138.329000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-max-1-easyon-younger-shoes-Hgp7Pt/DZ3308-010",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/air-max-1-easyon-younger-shoes-hgp7pt/dz3308-010",
+    "id": "iDuSoQYgZicRFHQ"
+  }
+}

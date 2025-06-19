@@ -1,0 +1,24 @@
+{
+  "id": "IIo906sa5uvOE7a",
+  "unique_key": "https://www.nike.com/sg/t/air-max-90-older-shoes-qdzt6g/hf6358-007",
+  "order_no": "1750343599208.940000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-max-90-older-shoes-QDzt6G/HF6358-007",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/air-max-90-older-shoes-qdzt6g/hf6358-007",
+    "id": "IIo906sa5uvOE7a"
+  }
+}

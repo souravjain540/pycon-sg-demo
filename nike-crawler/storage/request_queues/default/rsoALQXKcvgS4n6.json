@@ -1,0 +1,24 @@
+{
+  "id": "rsoALQXKcvgS4n6",
+  "unique_key": "https://www.nike.com/sg/t/air-jordan-1-low-older-shoes-xlzjc6/553560-042",
+  "order_no": "1750343599171.908000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-jordan-1-low-older-shoes-xLzJc6/553560-042",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/air-jordan-1-low-older-shoes-xlzjc6/553560-042",
+    "id": "rsoALQXKcvgS4n6"
+  }
+}

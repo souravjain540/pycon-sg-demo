@@ -1,0 +1,24 @@
+{
+  "id": "6MGxNF0hbndKYQG",
+  "unique_key": "https://www.nike.com/sg/t/air-max-1-easyon-shoes-k6x2mj/dz3309-010",
+  "order_no": "1750343599133.396000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-max-1-easyon-shoes-K6x2mJ/DZ3309-010",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/air-max-1-easyon-shoes-k6x2mj/dz3309-010",
+    "id": "6MGxNF0hbndKYQG"
+  }
+}

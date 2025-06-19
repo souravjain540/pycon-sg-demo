@@ -1,0 +1,24 @@
+{
+  "id": "6eSMp9iFGUq07V4",
+  "unique_key": "https://www.nike.com/sg/t/flex-plus-2-younger-shoes-jrxgvn/dv9000-103",
+  "order_no": "1750343599000.565000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/flex-plus-2-younger-shoes-JrXgvn/DV9000-103",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/flex-plus-2-younger-shoes-jrxgvn/dv9000-103",
+    "id": "6eSMp9iFGUq07V4"
+  }
+}

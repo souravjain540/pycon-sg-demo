@@ -1,0 +1,24 @@
+{
+  "id": "HVhSP30QdyuvYY1",
+  "unique_key": "https://www.nike.com/sg/t/vomero-5-older-shoes-jvbkhq/hf6998-600",
+  "order_no": "1750343599069.878000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/vomero-5-older-shoes-JvBkhq/HF6998-600",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/vomero-5-older-shoes-jvbkhq/hf6998-600",
+    "id": "HVhSP30QdyuvYY1"
+  }
+}

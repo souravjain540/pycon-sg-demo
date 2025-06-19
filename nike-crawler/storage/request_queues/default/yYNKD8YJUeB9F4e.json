@@ -1,0 +1,24 @@
+{
+  "id": "yYNKD8YJUeB9F4e",
+  "unique_key": "https://www.nike.com/sg/t/kobe-viii-younger-shoes-ltd5br/fn0267-002",
+  "order_no": "1750343599022.933000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/kobe-viii-younger-shoes-ltD5br/FN0267-002",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/kobe-viii-younger-shoes-ltd5br/fn0267-002",
+    "id": "yYNKD8YJUeB9F4e"
+  }
+}

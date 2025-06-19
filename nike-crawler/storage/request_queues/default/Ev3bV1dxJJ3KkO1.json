@@ -1,0 +1,24 @@
+{
+  "id": "Ev3bV1dxJJ3KkO1",
+  "unique_key": "https://www.nike.com/sg/t/air-force-1-07-shoes-nmmm1b/dd8959-100",
+  "order_no": "1750343576028.531000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-force-1-07-shoes-NMmm1B/DD8959-100",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/air-force-1-07-shoes-nmmm1b/dd8959-100",
+    "id": "Ev3bV1dxJJ3KkO1"
+  }
+}

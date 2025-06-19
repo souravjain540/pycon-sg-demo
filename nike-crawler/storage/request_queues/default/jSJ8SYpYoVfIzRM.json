@@ -1,0 +1,25 @@
+{
+  "id": "jSJ8SYpYoVfIzRM",
+  "unique_key": "https://www.nike.com/sg/t/dunk-low-next-nature-shoes-rtmrsp/ib7311-100",
+  "order_no": null,
+  "handled_at": "2025-06-19 14:35:15.913355+00:00",
+  "request": {
+    "url": "https://www.nike.com/sg/t/dunk-low-next-nature-shoes-RTMRSp/IB7311-100",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.nike.com/sg/t/dunk-low-next-nature-shoes-RTMRSp/IB7311-100",
+    "handled_at": "2025-06-19 14:35:15.913355+00:00",
+    "unique_key": "https://www.nike.com/sg/t/dunk-low-next-nature-shoes-rtmrsp/ib7311-100",
+    "id": "jSJ8SYpYoVfIzRM"
+  }
+}

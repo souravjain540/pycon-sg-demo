@@ -1,0 +1,24 @@
+{
+  "id": "YFDntNUSeSvJDkw",
+  "unique_key": "https://www.nike.com/sg/t/tatum-3-younger-shoes-g93tylvx/ib8153-100",
+  "order_no": "1750343599107.864000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/tatum-3-younger-shoes-g93TYlVx/IB8153-100",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/tatum-3-younger-shoes-g93tylvx/ib8153-100",
+    "id": "YFDntNUSeSvJDkw"
+  }
+}

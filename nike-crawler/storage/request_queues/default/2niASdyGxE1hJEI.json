@@ -1,0 +1,25 @@
+{
+  "id": "2niASdyGxE1hJEI",
+  "unique_key": "https://www.nike.com/sg/launch/r/ib3656-300",
+  "order_no": "1750343695155.272000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/launch/r/IB3656-300",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.nike.com/sg/launch/t/air-max-waffle-sprinter-green-and-electrolime",
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/launch/r/ib3656-300",
+    "id": "2niASdyGxE1hJEI"
+  }
+}

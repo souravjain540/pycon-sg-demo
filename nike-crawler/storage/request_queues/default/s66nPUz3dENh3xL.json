@@ -1,0 +1,24 @@
+{
+  "id": "s66nPUz3dENh3xL",
+  "unique_key": "https://www.nike.com/sg/t/sb-day-one-se-older-shoes-j6rvdw/fn4211-100",
+  "order_no": "1750343599165.560000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/sb-day-one-se-older-shoes-j6rVdw/FN4211-100",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/sb-day-one-se-older-shoes-j6rvdw/fn4211-100",
+    "id": "s66nPUz3dENh3xL"
+  }
+}

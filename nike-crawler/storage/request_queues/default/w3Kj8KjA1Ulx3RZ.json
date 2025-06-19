@@ -1,0 +1,25 @@
+{
+  "id": "w3Kj8KjA1Ulx3RZ",
+  "unique_key": "https://www.nike.com/sg/t/v2k-run-shoes-4p7wl1/hj4497-300",
+  "order_no": null,
+  "handled_at": "2025-06-19 14:34:16.849537+00:00",
+  "request": {
+    "url": "https://www.nike.com/sg/t/v2k-run-shoes-4P7Wl1/HJ4497-300",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.nike.com/sg/t/v2k-run-shoes-4P7Wl1/HJ4497-300",
+    "handled_at": "2025-06-19 14:34:16.849537+00:00",
+    "unique_key": "https://www.nike.com/sg/t/v2k-run-shoes-4p7wl1/hj4497-300",
+    "id": "w3Kj8KjA1Ulx3RZ"
+  }
+}

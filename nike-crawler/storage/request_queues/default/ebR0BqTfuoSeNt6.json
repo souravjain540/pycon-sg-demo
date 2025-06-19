@@ -1,0 +1,24 @@
+{
+  "id": "ebR0BqTfuoSeNt6",
+  "unique_key": "https://www.nike.com/sg/t/air-jordan-3-retro-black-cat-older-shoes-ggsdpd/dm0967-001",
+  "order_no": "1750343599156.958000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-jordan-3-retro-black-cat-older-shoes-ggSDPD/DM0967-001",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/air-jordan-3-retro-black-cat-older-shoes-ggsdpd/dm0967-001",
+    "id": "ebR0BqTfuoSeNt6"
+  }
+}

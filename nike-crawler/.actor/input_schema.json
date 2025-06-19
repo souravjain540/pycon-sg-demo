@@ -1,0 +1,15 @@
+{
+    "title": "Nike Crawlee",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+        
+        "maxItems": {
+            "type": "integer",
+            "editor": "number",
+            "title": "Limit search results",
+            "description": "Limits the maximum number of results, applies to each search separately.",
+            "default": 10
+        }
+    }
+}

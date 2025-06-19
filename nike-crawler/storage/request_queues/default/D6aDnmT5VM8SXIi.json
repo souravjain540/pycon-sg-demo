@@ -1,0 +1,24 @@
+{
+  "id": "D6aDnmT5VM8SXIi",
+  "unique_key": "https://www.nike.com/sg/t/jordan-3-retro-little-shoes-kd36fbcu/ib8969-004",
+  "order_no": "1750343599110.604000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/jordan-3-retro-little-shoes-Kd36FBcu/IB8969-004",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/jordan-3-retro-little-shoes-kd36fbcu/ib8969-004",
+    "id": "D6aDnmT5VM8SXIi"
+  }
+}

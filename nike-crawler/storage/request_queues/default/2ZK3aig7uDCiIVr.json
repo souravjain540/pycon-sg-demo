@@ -1,0 +1,24 @@
+{
+  "id": "2ZK3aig7uDCiIVr",
+  "unique_key": "https://www.nike.com/sg/t/sunray-protect-4-sandals-zvvgwz/hf6278-600",
+  "order_no": "1750343599064.291000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/sunray-protect-4-sandals-zvvGwZ/HF6278-600",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/sunray-protect-4-sandals-zvvgwz/hf6278-600",
+    "id": "2ZK3aig7uDCiIVr"
+  }
+}

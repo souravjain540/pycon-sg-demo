@@ -1,0 +1,25 @@
+{
+  "id": "sEmEEL1Qco0108C",
+  "unique_key": "https://www.nike.com/sg/t/dunk-low-retro-shoe-66rgqf/dd1391-103",
+  "order_no": null,
+  "handled_at": "2025-06-19 14:34:06.315913+00:00",
+  "request": {
+    "url": "https://www.nike.com/sg/t/dunk-low-retro-shoe-66RGqF/DD1391-103",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.nike.com/sg/t/dunk-low-retro-shoe-66RGqF/DD1391-103",
+    "handled_at": "2025-06-19 14:34:06.315913+00:00",
+    "unique_key": "https://www.nike.com/sg/t/dunk-low-retro-shoe-66rgqf/dd1391-103",
+    "id": "sEmEEL1Qco0108C"
+  }
+}

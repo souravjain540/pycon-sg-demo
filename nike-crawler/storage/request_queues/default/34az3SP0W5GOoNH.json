@@ -1,0 +1,24 @@
+{
+  "id": "34az3SP0W5GOoNH",
+  "unique_key": "https://www.nike.com/sg/t/jordan-spizike-low-shoes-rs2xqk/fq3952-103",
+  "order_no": "1750343599037.543000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/jordan-spizike-low-shoes-Rs2XQK/FQ3952-103",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/jordan-spizike-low-shoes-rs2xqk/fq3952-103",
+    "id": "34az3SP0W5GOoNH"
+  }
+}

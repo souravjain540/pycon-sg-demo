@@ -1,0 +1,24 @@
+{
+  "id": "nCNLW4OHLbm3Jid",
+  "unique_key": "https://www.nike.com/sg/t/jr-mercurial-vapor-16-club-younger-older-indoor-court-low-top-football-shoes-9rsw2w/fq8289-800",
+  "order_no": "1750343599041.530000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/jr-mercurial-vapor-16-club-younger-older-indoor-court-low-top-football-shoes-9RSW2W/FQ8289-800",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/jr-mercurial-vapor-16-club-younger-older-indoor-court-low-top-football-shoes-9rsw2w/fq8289-800",
+    "id": "nCNLW4OHLbm3Jid"
+  }
+}

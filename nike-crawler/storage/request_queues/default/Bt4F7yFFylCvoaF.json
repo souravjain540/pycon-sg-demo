@@ -1,0 +1,24 @@
+{
+  "id": "Bt4F7yFFylCvoaF",
+  "unique_key": "https://www.nike.com/sg/t/pegasus-41-faith-kipyegon-road-running-shoes-meh64nhs/ib4199-500",
+  "order_no": "1750343576015.704000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/pegasus-41-faith-kipyegon-road-running-shoes-MEh64NhS/IB4199-500",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/pegasus-41-faith-kipyegon-road-running-shoes-meh64nhs/ib4199-500",
+    "id": "Bt4F7yFFylCvoaF"
+  }
+}

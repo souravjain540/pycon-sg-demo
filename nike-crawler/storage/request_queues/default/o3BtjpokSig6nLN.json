@@ -1,0 +1,25 @@
+{
+  "id": "o3BtjpokSig6nLN",
+  "unique_key": "https://www.nike.com/sg/t/sb-force-58-skate-shoe-hnftvl/cz2959-001",
+  "order_no": null,
+  "handled_at": "2025-06-19 14:34:49.685115+00:00",
+  "request": {
+    "url": "https://www.nike.com/sg/t/sb-force-58-skate-shoe-HNFTvl/CZ2959-001",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.nike.com/sg/t/sb-force-58-skate-shoe-HNFTvl/CZ2959-001",
+    "handled_at": "2025-06-19 14:34:49.685115+00:00",
+    "unique_key": "https://www.nike.com/sg/t/sb-force-58-skate-shoe-hnftvl/cz2959-001",
+    "id": "o3BtjpokSig6nLN"
+  }
+}

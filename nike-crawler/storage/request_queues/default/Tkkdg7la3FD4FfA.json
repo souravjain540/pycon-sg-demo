@@ -1,0 +1,24 @@
+{
+  "id": "Tkkdg7la3FD4FfA",
+  "unique_key": "https://www.nike.com/sg/t/team-hustle-d-11-shoes-8mprxt/dv8995-105",
+  "order_no": "1750343599130.658000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/team-hustle-d-11-shoes-8MPrXT/DV8995-105",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/team-hustle-d-11-shoes-8mprxt/dv8995-105",
+    "id": "Tkkdg7la3FD4FfA"
+  }
+}
