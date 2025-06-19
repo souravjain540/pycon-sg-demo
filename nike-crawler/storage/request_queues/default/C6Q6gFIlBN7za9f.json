@@ -1,0 +1,25 @@
+{
+  "id": "C6Q6gFIlBN7za9f",
+  "unique_key": "https://www.nike.com/sg/t/zion-4-pf-iridescence-basketball-shoes-x2d9c7/fd0591-400",
+  "order_no": null,
+  "handled_at": "2025-06-19 14:33:58.697349+00:00",
+  "request": {
+    "url": "https://www.nike.com/sg/t/zion-4-pf-iridescence-basketball-shoes-X2d9C7/FD0591-400",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.nike.com/sg/t/zion-4-pf-iridescence-basketball-shoes-X2d9C7/FD0591-400",
+    "handled_at": "2025-06-19 14:33:58.697349+00:00",
+    "unique_key": "https://www.nike.com/sg/t/zion-4-pf-iridescence-basketball-shoes-x2d9c7/fd0591-400",
+    "id": "C6Q6gFIlBN7za9f"
+  }
+}

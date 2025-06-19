@@ -1,0 +1,24 @@
+{
+  "id": "zqkrIj7XxefHPdU",
+  "unique_key": "https://www.nike.com/sg/t/jordan-1-retro-high-og-unc-reimagined-younger-shoes-knjfc8/fd1412-402",
+  "order_no": "1750343598968.574000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/jordan-1-retro-high-og-unc-reimagined-younger-shoes-KnJFC8/FD1412-402",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/jordan-1-retro-high-og-unc-reimagined-younger-shoes-knjfc8/fd1412-402",
+    "id": "zqkrIj7XxefHPdU"
+  }
+}

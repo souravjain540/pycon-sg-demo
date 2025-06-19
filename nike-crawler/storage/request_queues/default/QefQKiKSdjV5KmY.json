@@ -1,0 +1,24 @@
+{
+  "id": "QefQKiKSdjV5KmY",
+  "unique_key": "https://www.nike.com/sg/t/giannis-freak-6-se-older-basketball-shoes-sdtlrb/hf1178-001",
+  "order_no": "1750343599170.260000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/giannis-freak-6-se-older-basketball-shoes-SDtLRB/HF1178-001",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/giannis-freak-6-se-older-basketball-shoes-sdtlrb/hf1178-001",
+    "id": "QefQKiKSdjV5KmY"
+  }
+}

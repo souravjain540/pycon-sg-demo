@@ -1,0 +1,24 @@
+{
+  "id": "teyhJViMIMxWVNo",
+  "unique_key": "https://www.nike.com/sg/t/aqua-swoosh-older-sandals-m08d2g/fv6363-002",
+  "order_no": "1750343598950.417000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/aqua-swoosh-older-sandals-m08D2G/FV6363-002",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/aqua-swoosh-older-sandals-m08d2g/fv6363-002",
+    "id": "teyhJViMIMxWVNo"
+  }
+}

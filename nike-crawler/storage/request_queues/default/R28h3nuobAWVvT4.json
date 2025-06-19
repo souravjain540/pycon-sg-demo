@@ -1,0 +1,24 @@
+{
+  "id": "R28h3nuobAWVvT4",
+  "unique_key": "https://www.nike.com/sg/t/zion-4-sharonda-older-basketball-shoes-ldgjcj/fd0588-101",
+  "order_no": "1750343598969.203000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/zion-4-sharonda-older-basketball-shoes-LdGjCJ/FD0588-101",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/zion-4-sharonda-older-basketball-shoes-ldgjcj/fd0588-101",
+    "id": "R28h3nuobAWVvT4"
+  }
+}

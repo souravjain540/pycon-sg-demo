@@ -1,0 +1,25 @@
+{
+  "id": "90BACRKDbz4W1hq",
+  "unique_key": "https://www.nike.com/sg/t/aone-leo-lights-ep-aja-wilson-basketball-shoes-x3dpnx/fz8606-001",
+  "order_no": null,
+  "handled_at": "2025-06-19 14:33:50.675918+00:00",
+  "request": {
+    "url": "https://www.nike.com/sg/t/aone-leo-lights-ep-aja-wilson-basketball-shoes-x3dpNX/FZ8606-001",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.nike.com/sg/t/aone-leo-lights-ep-aja-wilson-basketball-shoes-x3dpNX/FZ8606-001",
+    "handled_at": "2025-06-19 14:33:50.675918+00:00",
+    "unique_key": "https://www.nike.com/sg/t/aone-leo-lights-ep-aja-wilson-basketball-shoes-x3dpnx/fz8606-001",
+    "id": "90BACRKDbz4W1hq"
+  }
+}

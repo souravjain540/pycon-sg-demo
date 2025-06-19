@@ -1,0 +1,24 @@
+{
+  "id": "PUQ1dHb5QKQ5FRV",
+  "unique_key": "https://www.nike.com/sg/t/jordan-1-low-alt-shoes-jnqkzv/dr9747-067",
+  "order_no": "1750343599180.129000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/jordan-1-low-alt-shoes-jNQKZv/DR9747-067",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/jordan-1-low-alt-shoes-jnqkzv/dr9747-067",
+    "id": "PUQ1dHb5QKQ5FRV"
+  }
+}

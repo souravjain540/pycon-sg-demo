@@ -1,0 +1,25 @@
+{
+  "id": "GMZym3NHO0DcB97",
+  "unique_key": "https://www.nike.com/sg/t/phantom-6-low-elite-football-boot-9geyaxu4/ih3737-001",
+  "order_no": null,
+  "handled_at": "2025-06-19 14:33:49.432935+00:00",
+  "request": {
+    "url": "https://www.nike.com/sg/t/phantom-6-low-elite-football-boot-9gEyAXu4/IH3737-001",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.nike.com/sg/t/phantom-6-low-elite-football-boot-9gEyAXu4/IH3737-001",
+    "handled_at": "2025-06-19 14:33:49.432935+00:00",
+    "unique_key": "https://www.nike.com/sg/t/phantom-6-low-elite-football-boot-9geyaxu4/ih3737-001",
+    "id": "GMZym3NHO0DcB97"
+  }
+}

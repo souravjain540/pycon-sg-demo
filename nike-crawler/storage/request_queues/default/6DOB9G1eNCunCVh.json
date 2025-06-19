@@ -1,0 +1,24 @@
+{
+  "id": "6DOB9G1eNCunCVh",
+  "unique_key": "https://www.nike.com/sg/t/sabrina-2-se-older-basketball-shoes-wgq9vt/hf1188-100",
+  "order_no": "1750343599141.010000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/sabrina-2-se-older-basketball-shoes-Wgq9Vt/HF1188-100",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/sabrina-2-se-older-basketball-shoes-wgq9vt/hf1188-100",
+    "id": "6DOB9G1eNCunCVh"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "vCongZ1mS8BMWnY",
+  "unique_key": "https://www.nike.com/sg/t/air-max-isla-sandals-gnfkjv/hj8168-001",
+  "order_no": null,
+  "handled_at": "2025-06-19 14:35:15.952150+00:00",
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-max-isla-sandals-gNfKJV/HJ8168-001",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.nike.com/sg/t/air-max-isla-sandals-gNfKJV/HJ8168-001",
+    "handled_at": "2025-06-19 14:35:15.952150+00:00",
+    "unique_key": "https://www.nike.com/sg/t/air-max-isla-sandals-gnfkjv/hj8168-001",
+    "id": "vCongZ1mS8BMWnY"
+  }
+}

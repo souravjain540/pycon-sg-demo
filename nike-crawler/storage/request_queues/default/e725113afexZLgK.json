@@ -1,0 +1,24 @@
+{
+  "id": "e725113afexZLgK",
+  "unique_key": "https://www.nike.com/sg/t/jr-mercurial-vapor-16-academy-kylian-mbappe-older-indoor-court-low-top-football-shoes-nbm2lv/fq8414-500",
+  "order_no": "1750343599044.881000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/jr-mercurial-vapor-16-academy-kylian-mbappe-older-indoor-court-low-top-football-shoes-NBm2lv/FQ8414-500",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/jr-mercurial-vapor-16-academy-kylian-mbappe-older-indoor-court-low-top-football-shoes-nbm2lv/fq8414-500",
+    "id": "e725113afexZLgK"
+  }
+}

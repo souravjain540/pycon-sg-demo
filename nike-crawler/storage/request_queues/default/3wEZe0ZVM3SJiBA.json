@@ -1,0 +1,24 @@
+{
+  "id": "3wEZe0ZVM3SJiBA",
+  "unique_key": "https://www.nike.com/sg/t/air-max-dn8-older-shoes-knwcgq/hv5258-001",
+  "order_no": "1750343599102.921000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-max-dn8-older-shoes-KnwcgQ/HV5258-001",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/air-max-dn8-older-shoes-knwcgq/hv5258-001",
+    "id": "3wEZe0ZVM3SJiBA"
+  }
+}

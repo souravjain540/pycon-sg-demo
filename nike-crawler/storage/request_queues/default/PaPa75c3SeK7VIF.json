@@ -1,0 +1,24 @@
+{
+  "id": "PaPa75c3SeK7VIF",
+  "unique_key": "https://www.nike.com/sg/t/sonic-fly-older-running-shoes-ntmd01/fz0017-002",
+  "order_no": "1750343599049.901000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/sonic-fly-older-running-shoes-nTmD01/FZ0017-002",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/sonic-fly-older-running-shoes-ntmd01/fz0017-002",
+    "id": "PaPa75c3SeK7VIF"
+  }
+}

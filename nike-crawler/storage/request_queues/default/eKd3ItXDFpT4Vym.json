@@ -1,0 +1,24 @@
+{
+  "id": "eKd3ItXDFpT4Vym",
+  "unique_key": "https://www.nike.com/sg/t/revolution-7-shoes-bv4wl1/fb7691-008",
+  "order_no": "1750343599183.428000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/revolution-7-shoes-Bv4Wl1/FB7691-008",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/revolution-7-shoes-bv4wl1/fb7691-008",
+    "id": "eKd3ItXDFpT4Vym"
+  }
+}

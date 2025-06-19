@@ -1,0 +1,24 @@
+{
+  "id": "zJHL9Brorp8dq0z",
+  "unique_key": "https://www.nike.com/sg/t/jordan-1-mid-se-younger-shoes-mspf5s/hf3198-100",
+  "order_no": "1750343599204.140000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/jordan-1-mid-se-younger-shoes-Mspf5S/HF3198-100",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/jordan-1-mid-se-younger-shoes-mspf5s/hf3198-100",
+    "id": "zJHL9Brorp8dq0z"
+  }
+}

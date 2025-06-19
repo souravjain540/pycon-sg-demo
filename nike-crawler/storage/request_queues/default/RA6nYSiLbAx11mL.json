@@ -1,0 +1,24 @@
+{
+  "id": "RA6nYSiLbAx11mL",
+  "unique_key": "https://www.nike.com/sg/t/jr-mercurial-vapor-16-club-younger-multi-ground-low-top-football-boot-mgvfqz/fq8290-800",
+  "order_no": "1750343599042.106000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/jr-mercurial-vapor-16-club-younger-multi-ground-low-top-football-boot-mGVFqZ/FQ8290-800",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/jr-mercurial-vapor-16-club-younger-multi-ground-low-top-football-boot-mgvfqz/fq8290-800",
+    "id": "RA6nYSiLbAx11mL"
+  }
+}

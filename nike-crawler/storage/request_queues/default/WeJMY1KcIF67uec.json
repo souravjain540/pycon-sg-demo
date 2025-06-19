@@ -1,0 +1,24 @@
+{
+  "id": "WeJMY1KcIF67uec",
+  "unique_key": "https://www.nike.com/sg/t/p-6000-older-shoes-d8svrc/hv5064-500",
+  "order_no": "1750343599101.794000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/p-6000-older-shoes-d8svrC/HV5064-500",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/p-6000-older-shoes-d8svrc/hv5064-500",
+    "id": "WeJMY1KcIF67uec"
+  }
+}

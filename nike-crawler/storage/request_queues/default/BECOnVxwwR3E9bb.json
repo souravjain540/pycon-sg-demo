@@ -1,0 +1,24 @@
+{
+  "id": "BECOnVxwwR3E9bb",
+  "unique_key": "https://www.nike.com/sg/t/giannis-immortality-4-younger-shoes-c3dxgr/fz6733-300",
+  "order_no": "1750343599198.697000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/giannis-immortality-4-younger-shoes-C3dxgr/FZ6733-300",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/giannis-immortality-4-younger-shoes-c3dxgr/fz6733-300",
+    "id": "BECOnVxwwR3E9bb"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "k96sLWMIoDz4jyI",
+  "unique_key": "https://www.nike.com/sg/t/reactx-rejuven8-slides-n6dl7c/hv4479-001",
+  "order_no": null,
+  "handled_at": "2025-06-19 14:33:46.720122+00:00",
+  "request": {
+    "url": "https://www.nike.com/sg/t/reactx-rejuven8-slides-N6DL7c/HV4479-001",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.nike.com/sg/t/reactx-rejuven8-slides-N6DL7c/HV4479-001",
+    "handled_at": "2025-06-19 14:33:46.720122+00:00",
+    "unique_key": "https://www.nike.com/sg/t/reactx-rejuven8-slides-n6dl7c/hv4479-001",
+    "id": "k96sLWMIoDz4jyI"
+  }
+}

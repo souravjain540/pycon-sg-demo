@@ -1,0 +1,24 @@
+{
+  "id": "BLD5LX4wH3Sl2cR",
+  "unique_key": "https://www.nike.com/sg/t/jordan-day1-eo-older-shoes-cpx7rj/fq1306-102",
+  "order_no": "1750343599035.259000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/jordan-day1-eo-older-shoes-cPx7rj/FQ1306-102",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/jordan-day1-eo-older-shoes-cpx7rj/fq1306-102",
+    "id": "BLD5LX4wH3Sl2cR"
+  }
+}

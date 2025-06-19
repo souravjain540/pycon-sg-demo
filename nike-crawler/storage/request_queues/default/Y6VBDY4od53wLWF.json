@@ -1,0 +1,24 @@
+{
+  "id": "Y6VBDY4od53wLWF",
+  "unique_key": "https://www.nike.com/sg/t/dynamo-2-easyon-shoes-lmgsbm/fd0554-004",
+  "order_no": "1750343599154.264000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/dynamo-2-easyon-shoes-lmGSBM/FD0554-004",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/dynamo-2-easyon-shoes-lmgsbm/fd0554-004",
+    "id": "Y6VBDY4od53wLWF"
+  }
+}

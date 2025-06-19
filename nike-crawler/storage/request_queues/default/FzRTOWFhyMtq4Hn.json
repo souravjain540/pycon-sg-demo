@@ -1,0 +1,24 @@
+{
+  "id": "FzRTOWFhyMtq4Hn",
+  "unique_key": "https://www.nike.com/sg/t/court-borough-low-recraft-older-shoes-cg2qj0/dv5456-131",
+  "order_no": "1750343598997.763000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/court-borough-low-recraft-older-shoes-cg2qJ0/DV5456-131",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/court-borough-low-recraft-older-shoes-cg2qj0/dv5456-131",
+    "id": "FzRTOWFhyMtq4Hn"
+  }
+}

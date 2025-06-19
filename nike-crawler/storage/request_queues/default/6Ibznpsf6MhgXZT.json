@@ -1,0 +1,24 @@
+{
+  "id": "6Ibznpsf6MhgXZT",
+  "unique_key": "https://www.nike.com/sg/t/jordan-1-retro-low-younger-shoes-qtmn3f/hf0411-001",
+  "order_no": "1750343599169.727000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/jordan-1-retro-low-younger-shoes-QTMn3F/HF0411-001",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/jordan-1-retro-low-younger-shoes-qtmn3f/hf0411-001",
+    "id": "6Ibznpsf6MhgXZT"
+  }
+}

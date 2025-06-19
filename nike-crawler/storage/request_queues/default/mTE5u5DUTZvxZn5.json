@@ -1,0 +1,24 @@
+{
+  "id": "mTE5u5DUTZvxZn5",
+  "unique_key": "https://www.nike.com/sg/t/sunray-protect-2-sandals-vjs6fw/943827-001",
+  "order_no": "1750343598918.985000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/sunray-protect-2-sandals-VjS6fW/943827-001",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/sunray-protect-2-sandals-vjs6fw/943827-001",
+    "id": "mTE5u5DUTZvxZn5"
+  }
+}

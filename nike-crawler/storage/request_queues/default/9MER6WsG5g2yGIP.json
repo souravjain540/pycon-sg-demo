@@ -1,0 +1,24 @@
+{
+  "id": "9MER6WsG5g2yGIP",
+  "unique_key": "https://www.nike.com/sg/t/jordan-1-retro-high-og-shoes-p8c56q/fd1413-100",
+  "order_no": "1750343599017.087000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/jordan-1-retro-high-og-shoes-P8C56q/FD1413-100",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/jordan-1-retro-high-og-shoes-p8c56q/fd1413-100",
+    "id": "9MER6WsG5g2yGIP"
+  }
+}

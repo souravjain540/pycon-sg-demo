@@ -1,0 +1,24 @@
+{
+  "id": "egZft3T1pjMAqxV",
+  "unique_key": "https://www.nike.com/sg/t/dunk-low-older-shoes-q5jf5b/cw1590-100",
+  "order_no": "1750343598931.271000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/dunk-low-older-shoes-Q5JF5B/CW1590-100",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/dunk-low-older-shoes-q5jf5b/cw1590-100",
+    "id": "egZft3T1pjMAqxV"
+  }
+}

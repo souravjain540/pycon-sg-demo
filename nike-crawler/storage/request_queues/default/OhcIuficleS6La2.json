@@ -1,0 +1,24 @@
+{
+  "id": "OhcIuficleS6La2",
+  "unique_key": "https://www.nike.com/sg/t/varsity-younger-shoe-0pglbb/cn9393-001",
+  "order_no": "1750343598956.361000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/varsity-younger-shoe-0PGLBB/CN9393-001",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/varsity-younger-shoe-0pglbb/cn9393-001",
+    "id": "OhcIuficleS6La2"
+  }
+}

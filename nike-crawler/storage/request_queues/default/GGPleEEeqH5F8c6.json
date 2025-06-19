@@ -1,0 +1,25 @@
+{
+  "id": "GGPleEEeqH5F8c6",
+  "unique_key": "https://www.nike.com/sg/t/pegasus-41-road-running-shoes-rzm89s/fd2722-001",
+  "order_no": null,
+  "handled_at": "2025-06-19 14:35:00.331917+00:00",
+  "request": {
+    "url": "https://www.nike.com/sg/t/pegasus-41-road-running-shoes-RZm89S/FD2722-001",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.nike.com/sg/t/pegasus-41-road-running-shoes-RZm89S/FD2722-001",
+    "handled_at": "2025-06-19 14:35:00.331917+00:00",
+    "unique_key": "https://www.nike.com/sg/t/pegasus-41-road-running-shoes-rzm89s/fd2722-001",
+    "id": "GGPleEEeqH5F8c6"
+  }
+}

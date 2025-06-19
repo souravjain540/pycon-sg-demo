@@ -1,0 +1,24 @@
+{
+  "id": "jFYA7KNgMTDp5F4",
+  "unique_key": "https://www.nike.com/sg/t/aone-og-pearl-aja-wilson-older-basketball-shoes-dbhrxb/hf7001-100",
+  "order_no": "1750343598964.592000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/aone-og-pearl-aja-wilson-older-basketball-shoes-DBHRXb/HF7001-100",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/aone-og-pearl-aja-wilson-older-basketball-shoes-dbhrxb/hf7001-100",
+    "id": "jFYA7KNgMTDp5F4"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "6uj2UGuVVwkZBHR",
+  "unique_key": "https://www.nike.com/sg/t/star-runner-4-older-road-running-shoes-jsfcts/dx7615-408",
+  "order_no": "1750343599004.174000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/star-runner-4-older-road-running-shoes-JsFCts/DX7615-408",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/star-runner-4-older-road-running-shoes-jsfcts/dx7615-408",
+    "id": "6uj2UGuVVwkZBHR"
+  }
+}

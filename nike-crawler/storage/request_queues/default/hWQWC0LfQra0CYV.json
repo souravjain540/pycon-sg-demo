@@ -1,0 +1,24 @@
+{
+  "id": "hWQWC0LfQra0CYV",
+  "unique_key": "https://www.nike.com/sg/t/dunk-low-shoes-fhs947/fb9107-115",
+  "order_no": "1750343599183.958000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/dunk-low-shoes-fhs947/FB9107-115",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/dunk-low-shoes-fhs947/fb9107-115",
+    "id": "hWQWC0LfQra0CYV"
+  }
+}

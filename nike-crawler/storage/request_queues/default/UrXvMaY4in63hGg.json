@@ -1,0 +1,24 @@
+{
+  "id": "UrXvMaY4in63hGg",
+  "unique_key": "https://www.nike.com/sg/t/kawa-younger-older-slides-yatyzxrb/819352-001",
+  "order_no": "1750343598928.878000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/kawa-younger-older-slides-yATYZXRb/819352-001",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/kawa-younger-older-slides-yatyzxrb/819352-001",
+    "id": "UrXvMaY4in63hGg"
+  }
+}

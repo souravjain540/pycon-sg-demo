@@ -1,0 +1,24 @@
+{
+  "id": "9oJ9Rap8uYeQKB8",
+  "unique_key": "https://www.nike.com/sg/t/c1ty-sand-older-shoes-wnwkgw/hq0028-100",
+  "order_no": "1750343599088.191000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/c1ty-sand-older-shoes-wNwkgW/HQ0028-100",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/c1ty-sand-older-shoes-wnwkgw/hq0028-100",
+    "id": "9oJ9Rap8uYeQKB8"
+  }
+}

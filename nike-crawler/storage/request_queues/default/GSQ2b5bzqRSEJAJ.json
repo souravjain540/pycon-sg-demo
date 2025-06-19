@@ -1,0 +1,24 @@
+{
+  "id": "GSQ2b5bzqRSEJAJ",
+  "unique_key": "https://www.nike.com/sg/t/air-force-1-older-shoes-hpcg7k/hv5165-121",
+  "order_no": "1750343599212.227000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-force-1-older-shoes-hpCG7k/HV5165-121",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/air-force-1-older-shoes-hpcg7k/hv5165-121",
+    "id": "GSQ2b5bzqRSEJAJ"
+  }
+}

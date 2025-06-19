@@ -1,0 +1,24 @@
+{
+  "id": "j5CQif1ePX7i1Ii",
+  "unique_key": "https://www.nike.com/sg/t/air-jordan-1-low-shoes-459b4t/dc0774-105",
+  "order_no": "1750343576021.931000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-jordan-1-low-shoes-459b4T/DC0774-105",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/air-jordan-1-low-shoes-459b4t/dc0774-105",
+    "id": "j5CQif1ePX7i1Ii"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "76QpZ5MdCPfDTGs",
+  "unique_key": "https://www.nike.com/sg/t/air-jordan-1-low-se-older-shoes-h34xr8/hf3188-011",
+  "order_no": "1750343599203.094000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-jordan-1-low-se-older-shoes-h34xR8/HF3188-011",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/air-jordan-1-low-se-older-shoes-h34xr8/hf3188-011",
+    "id": "76QpZ5MdCPfDTGs"
+  }
+}

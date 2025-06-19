@@ -1,0 +1,24 @@
+{
+  "id": "R5rgsSOnRxbFb63",
+  "unique_key": "https://www.nike.com/sg/t/jordan-max-aura-2-younger-shoe-91lfxh/cn8095-006",
+  "order_no": "1750343599121.658000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/jordan-max-aura-2-younger-shoe-91lfxh/CN8095-006",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/jordan-max-aura-2-younger-shoe-91lfxh/cn8095-006",
+    "id": "R5rgsSOnRxbFb63"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "x2zBuxgl4wly9vo",
+  "unique_key": "https://www.nike.com/sg/t/dunk-low-younger-shoes-xlszqj/fb9108-115",
+  "order_no": "1750343599184.520000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/dunk-low-younger-shoes-XLSZqJ/FB9108-115",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/dunk-low-younger-shoes-xlszqj/fb9108-115",
+    "id": "x2zBuxgl4wly9vo"
+  }
+}

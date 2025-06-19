@@ -1,0 +1,24 @@
+{
+  "id": "F7UyoLMt8vWzuBc",
+  "unique_key": "https://www.nike.com/sg/t/court-borough-low-recraft-older-shoes-b7gdhx/hm6293-480",
+  "order_no": "1750343599085.964000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/court-borough-low-recraft-older-shoes-B7GDhX/HM6293-480",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/court-borough-low-recraft-older-shoes-b7gdhx/hm6293-480",
+    "id": "F7UyoLMt8vWzuBc"
+  }
+}

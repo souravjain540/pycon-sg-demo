@@ -1,0 +1,24 @@
+{
+  "id": "VIVnBYd8szFPCRb",
+  "unique_key": "https://www.nike.com/sg/t/jr-mercurial-superfly-10-club-younger-older-high-top-football-shoes-5830s1/fq8313-800",
+  "order_no": "1750343599042.706000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/jr-mercurial-superfly-10-club-younger-older-high-top-football-shoes-5830S1/FQ8313-800",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/jr-mercurial-superfly-10-club-younger-older-high-top-football-shoes-5830s1/fq8313-800",
+    "id": "VIVnBYd8szFPCRb"
+  }
+}

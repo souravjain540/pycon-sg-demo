@@ -1,0 +1,24 @@
+{
+  "id": "OKJniQdqizccBiP",
+  "unique_key": "https://www.nike.com/sg/t/air-max-90-older-shoes-mjkx0p/if3092-001",
+  "order_no": "1750343599118.271000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-max-90-older-shoes-MJkx0p/IF3092-001",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/air-max-90-older-shoes-mjkx0p/if3092-001",
+    "id": "OKJniQdqizccBiP"
+  }
+}

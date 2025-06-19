@@ -1,0 +1,24 @@
+{
+  "id": "VypN7yerit2hP88",
+  "unique_key": "https://www.nike.com/sg/t/blazer-low-77-older-shoes-j24tzh/da4074-130",
+  "order_no": "1750343599174.976000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/blazer-low-77-older-shoes-J24TzH/DA4074-130",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/blazer-low-77-older-shoes-j24tzh/da4074-130",
+    "id": "VypN7yerit2hP88"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ACLXXu9ZbATBDH2",
+  "unique_key": "https://www.nike.com/sg/t/jordan-23-7-younger-shoes-zlbbqp/dq9293-616",
+  "order_no": "1750343599143.779000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/jordan-23-7-younger-shoes-ZlBBQP/DQ9293-616",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/jordan-23-7-younger-shoes-zlbbqp/dq9293-616",
+    "id": "ACLXXu9ZbATBDH2"
+  }
+}

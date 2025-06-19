@@ -1,0 +1,24 @@
+{
+  "id": "aanIfvDhGaUgVSf",
+  "unique_key": "https://www.nike.com/sg/t/team-hustle-d-12-older-basketball-shoes-kdbj6r/hf6279-600",
+  "order_no": "1750343599066.606000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/team-hustle-d-12-older-basketball-shoes-kDbJ6R/HF6279-600",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/team-hustle-d-12-older-basketball-shoes-kdbj6r/hf6279-600",
+    "id": "aanIfvDhGaUgVSf"
+  }
+}

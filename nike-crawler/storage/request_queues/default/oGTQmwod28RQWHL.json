@@ -1,0 +1,24 @@
+{
+  "id": "oGTQmwod28RQWHL",
+  "unique_key": "https://www.nike.com/sg/t/dunk-low-shoes-r8qxcd/dd1503-101",
+  "order_no": "1750343576022.993000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/dunk-low-shoes-r8QXCd/DD1503-101",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/dunk-low-shoes-r8qxcd/dd1503-101",
+    "id": "oGTQmwod28RQWHL"
+  }
+}

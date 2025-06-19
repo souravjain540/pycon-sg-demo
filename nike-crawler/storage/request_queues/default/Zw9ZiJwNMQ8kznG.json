@@ -1,0 +1,24 @@
+{
+  "id": "Zw9ZiJwNMQ8kznG",
+  "unique_key": "https://www.nike.com/sg/t/jr-mercurial-vapor-16-club-older-younger-multi-ground-low-top-football-boot-cxx5wh/fq8286-800",
+  "order_no": "1750343599040.338000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/jr-mercurial-vapor-16-club-older-younger-multi-ground-low-top-football-boot-cXx5wH/FQ8286-800",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/jr-mercurial-vapor-16-club-older-younger-multi-ground-low-top-football-boot-cxx5wh/fq8286-800",
+    "id": "Zw9ZiJwNMQ8kznG"
+  }
+}

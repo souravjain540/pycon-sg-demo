@@ -1,0 +1,24 @@
+{
+  "id": "jCYJ3KkUQNWjbCB",
+  "unique_key": "https://www.nike.com/sg/t/cortez-easyon-younger-shoes-c2xpdr/dm0951-115",
+  "order_no": "1750343598991.160000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/cortez-easyon-younger-shoes-C2xPdR/DM0951-115",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/cortez-easyon-younger-shoes-c2xpdr/dm0951-115",
+    "id": "jCYJ3KkUQNWjbCB"
+  }
+}

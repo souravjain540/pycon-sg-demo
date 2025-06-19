@@ -1,0 +1,24 @@
+{
+  "id": "EUyyUbFe48QcbMT",
+  "unique_key": "https://www.nike.com/sg/t/nikecourt-legacy-shoes-3mmgc9/da5382-130",
+  "order_no": "1750343598987.155000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/nikecourt-legacy-shoes-3MMGC9/DA5382-130",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/nikecourt-legacy-shoes-3mmgc9/da5382-130",
+    "id": "EUyyUbFe48QcbMT"
+  }
+}

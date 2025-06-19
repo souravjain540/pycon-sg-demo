@@ -1,0 +1,24 @@
+{
+  "id": "SiOP6b6Xst8Gkqy",
+  "unique_key": "https://www.nike.com/sg/t/star-runner-5-older-running-shoes-sesjy3bi/hf7004-101",
+  "order_no": "1750343598916.051000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/star-runner-5-older-running-shoes-sesjy3bI/HF7004-101",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/star-runner-5-older-running-shoes-sesjy3bi/hf7004-101",
+    "id": "SiOP6b6Xst8Gkqy"
+  }
+}

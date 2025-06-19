@@ -1,0 +1,24 @@
+{
+  "id": "Lo3E2QdtV7z9W0i",
+  "unique_key": "https://www.nike.com/sg/t/aqua-swoosh-sandals-rfskhx/fn0875-600",
+  "order_no": "1750343598925.698000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/aqua-swoosh-sandals-rfskhx/FN0875-600",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/aqua-swoosh-sandals-rfskhx/fn0875-600",
+    "id": "Lo3E2QdtV7z9W0i"
+  }
+}

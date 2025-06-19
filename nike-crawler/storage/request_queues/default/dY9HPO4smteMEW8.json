@@ -1,0 +1,25 @@
+{
+  "id": "dY9HPO4smteMEW8",
+  "unique_key": "https://www.nike.com/sg/t/luka-4-pf-navigator-basketball-shoes-kqvxzx/hf0824-002",
+  "order_no": null,
+  "handled_at": "2025-06-19 14:33:33.380982+00:00",
+  "request": {
+    "url": "https://www.nike.com/sg/t/luka-4-pf-navigator-basketball-shoes-kQvxZx/HF0824-002",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.nike.com/sg/t/luka-4-pf-navigator-basketball-shoes-kQvxZx/HF0824-002",
+    "handled_at": "2025-06-19 14:33:33.380982+00:00",
+    "unique_key": "https://www.nike.com/sg/t/luka-4-pf-navigator-basketball-shoes-kqvxzx/hf0824-002",
+    "id": "dY9HPO4smteMEW8"
+  }
+}

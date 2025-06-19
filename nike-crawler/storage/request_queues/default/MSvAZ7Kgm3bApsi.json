@@ -1,0 +1,24 @@
+{
+  "id": "MSvAZ7Kgm3bApsi",
+  "unique_key": "https://www.nike.com/sg/t/team-hustle-d-12-younger-shoes-jzj4m6/hf6280-601",
+  "order_no": "1750343599068.214000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/team-hustle-d-12-younger-shoes-jZj4M6/HF6280-601",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/team-hustle-d-12-younger-shoes-jzj4m6/hf6280-601",
+    "id": "MSvAZ7Kgm3bApsi"
+  }
+}

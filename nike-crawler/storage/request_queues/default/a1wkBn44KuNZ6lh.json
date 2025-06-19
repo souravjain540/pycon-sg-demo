@@ -1,0 +1,24 @@
+{
+  "id": "a1wkBn44KuNZ6lh",
+  "unique_key": "https://www.nike.com/sg/t/gt-cut-3-older-basketball-shoes-txmjq2/fd7033-104",
+  "order_no": "1750343599019.067000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/gt-cut-3-older-basketball-shoes-TxMJQ2/FD7033-104",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/gt-cut-3-older-basketball-shoes-txmjq2/fd7033-104",
+    "id": "a1wkBn44KuNZ6lh"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "gV94JHnujhVgYpP",
+  "unique_key": "https://www.nike.com/sg/t/pegasus-41-jakob-ingebrigtsen-road-running-shoes-xgggvq/hq3040-200",
+  "order_no": null,
+  "handled_at": "2025-06-19 14:33:05.758677+00:00",
+  "request": {
+    "url": "https://www.nike.com/sg/t/pegasus-41-jakob-ingebrigtsen-road-running-shoes-XGgGvQ/HQ3040-200",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.nike.com/sg/t/pegasus-41-jakob-ingebrigtsen-road-running-shoes-XGgGvQ/HQ3040-200",
+    "handled_at": "2025-06-19 14:33:05.758677+00:00",
+    "unique_key": "https://www.nike.com/sg/t/pegasus-41-jakob-ingebrigtsen-road-running-shoes-xgggvq/hq3040-200",
+    "id": "gV94JHnujhVgYpP"
+  }
+}

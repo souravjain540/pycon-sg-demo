@@ -1,0 +1,24 @@
+{
+  "id": "GLFbQTJhIIifTPh",
+  "unique_key": "https://www.nike.com/sg/t/air-max-sc-older-shoe-2kp8c1/cz5358-120",
+  "order_no": "1750343598951.022000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-max-sc-older-shoe-2kp8c1/CZ5358-120",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/air-max-sc-older-shoe-2kp8c1/cz5358-120",
+    "id": "GLFbQTJhIIifTPh"
+  }
+}

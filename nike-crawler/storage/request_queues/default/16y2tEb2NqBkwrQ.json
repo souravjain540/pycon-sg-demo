@@ -1,0 +1,25 @@
+{
+  "id": "16y2tEb2NqBkwrQ",
+  "unique_key": "https://www.nike.com/sg/t/lebron-witness-viii-basketball-shoes-7ujvqd55/hq2139-002",
+  "order_no": null,
+  "handled_at": "2025-06-19 14:34:35.220650+00:00",
+  "request": {
+    "url": "https://www.nike.com/sg/t/lebron-witness-viii-basketball-shoes-7UjVQd55/HQ2139-002",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.nike.com/sg/t/lebron-witness-viii-basketball-shoes-7UjVQd55/HQ2139-002",
+    "handled_at": "2025-06-19 14:34:35.220650+00:00",
+    "unique_key": "https://www.nike.com/sg/t/lebron-witness-viii-basketball-shoes-7ujvqd55/hq2139-002",
+    "id": "16y2tEb2NqBkwrQ"
+  }
+}

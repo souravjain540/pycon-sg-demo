@@ -1,0 +1,24 @@
+{
+  "id": "O2V9hi1co0d5Kfb",
+  "unique_key": "https://www.nike.com/sg/t/air-jordan-1-mid-se-older-shoes-jgqbzv/hf3200-300",
+  "order_no": "1750343599137.785000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-jordan-1-mid-se-older-shoes-JgQbZV/HF3200-300",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/air-jordan-1-mid-se-older-shoes-jgqbzv/hf3200-300",
+    "id": "O2V9hi1co0d5Kfb"
+  }
+}

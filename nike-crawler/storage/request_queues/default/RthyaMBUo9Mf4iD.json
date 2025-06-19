@@ -1,0 +1,25 @@
+{
+  "id": "RthyaMBUo9Mf4iD",
+  "unique_key": "https://www.nike.com/sg/t/zoom-vomero-5-shoes-qzg4rj/bv1358-001",
+  "order_no": null,
+  "handled_at": "2025-06-19 14:34:14.383625+00:00",
+  "request": {
+    "url": "https://www.nike.com/sg/t/zoom-vomero-5-shoes-qZG4RJ/BV1358-001",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.nike.com/sg/t/zoom-vomero-5-shoes-qZG4RJ/BV1358-001",
+    "handled_at": "2025-06-19 14:34:14.383625+00:00",
+    "unique_key": "https://www.nike.com/sg/t/zoom-vomero-5-shoes-qzg4rj/bv1358-001",
+    "id": "RthyaMBUo9Mf4iD"
+  }
+}

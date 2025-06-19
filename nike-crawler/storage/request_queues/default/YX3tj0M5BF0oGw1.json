@@ -1,0 +1,24 @@
+{
+  "id": "YX3tj0M5BF0oGw1",
+  "unique_key": "https://www.nike.com/sg/t/lebron-xxii-se-older-basketball-shoes-nhmzxq/hq3673-400",
+  "order_no": "1750343599163.462000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/lebron-xxii-se-older-basketball-shoes-nHmzxq/HQ3673-400",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/lebron-xxii-se-older-basketball-shoes-nhmzxq/hq3673-400",
+    "id": "YX3tj0M5BF0oGw1"
+  }
+}

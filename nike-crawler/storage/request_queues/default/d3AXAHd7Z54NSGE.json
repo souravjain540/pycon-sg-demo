@@ -1,0 +1,24 @@
+{
+  "id": "d3AXAHd7Z54NSGE",
+  "unique_key": "https://www.nike.com/sg/t/air-jordan-1-mid-se-older-shoes-r6dgls/hf3196-100",
+  "order_no": "1750343599203.632000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/air-jordan-1-mid-se-older-shoes-R6Dgls/HF3196-100",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/air-jordan-1-mid-se-older-shoes-r6dgls/hf3196-100",
+    "id": "d3AXAHd7Z54NSGE"
+  }
+}

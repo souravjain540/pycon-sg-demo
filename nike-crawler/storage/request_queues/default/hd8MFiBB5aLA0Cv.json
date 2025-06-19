@@ -1,0 +1,24 @@
+{
+  "id": "hd8MFiBB5aLA0Cv",
+  "unique_key": "https://www.nike.com/sg/t/revolution-7-older-road-running-shoes-rtdvsl/fb7689-008",
+  "order_no": "1750343599182.395000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/revolution-7-older-road-running-shoes-RTdvsl/FB7689-008",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/revolution-7-older-road-running-shoes-rtdvsl/fb7689-008",
+    "id": "hd8MFiBB5aLA0Cv"
+  }
+}

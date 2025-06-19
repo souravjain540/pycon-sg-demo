@@ -1,0 +1,24 @@
+{
+  "id": "FAom0FJhRSvvB63",
+  "unique_key": "https://www.nike.com/sg/t/rift-2-older-shoes-5g2058/fb5523-801",
+  "order_no": "1750343599008.048000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/rift-2-older-shoes-5g2058/FB5523-801",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/rift-2-older-shoes-5g2058/fb5523-801",
+    "id": "FAom0FJhRSvvB63"
+  }
+}

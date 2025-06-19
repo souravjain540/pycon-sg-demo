@@ -1,0 +1,24 @@
+{
+  "id": "sj5n0Pfmu0AMgDE",
+  "unique_key": "https://www.nike.com/sg/t/blazer-mid-77-older-shoes-l3qddq/da4086-127",
+  "order_no": "1750343599162.943000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/t/blazer-mid-77-older-shoes-L3QddQ/DA4086-127",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/t/blazer-mid-77-older-shoes-l3qddq/da4086-127",
+    "id": "sj5n0Pfmu0AMgDE"
+  }
+}

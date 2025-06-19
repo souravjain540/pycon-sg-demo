@@ -1,0 +1,25 @@
+{
+  "id": "2etdYqoHOIDMtgh",
+  "unique_key": "https://www.nike.com/sg/launch/r/hf3713-002",
+  "order_no": "1750343692057.928000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.nike.com/sg/launch/r/HF3713-002",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.nike.com/sg/launch/t/air-max-1-x-huf-anthracite-and-medium-grey",
+    "handled_at": null,
+    "unique_key": "https://www.nike.com/sg/launch/r/hf3713-002",
+    "id": "2etdYqoHOIDMtgh"
+  }
+}

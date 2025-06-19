@@ -1,0 +1,25 @@
+{
+  "id": "0fIhtCrmhCapDVM",
+  "unique_key": "https://www.nike.com/sg/t/killshot-2-leather-shoes-dqwz4j/432997-070",
+  "order_no": null,
+  "handled_at": "2025-06-19 14:34:44.185046+00:00",
+  "request": {
+    "url": "https://www.nike.com/sg/t/killshot-2-leather-shoes-DqWZ4j/432997-070",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      },
+      "label": "detail"
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.nike.com/sg/t/killshot-2-leather-shoes-DqWZ4j/432997-070",
+    "handled_at": "2025-06-19 14:34:44.185046+00:00",
+    "unique_key": "https://www.nike.com/sg/t/killshot-2-leather-shoes-dqwz4j/432997-070",
+    "id": "0fIhtCrmhCapDVM"
+  }
+}
