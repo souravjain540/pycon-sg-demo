@@ -134,15 +134,7 @@ requests = []
     await context.add_requests(requests)
 ```
 
-```py
-await context.add_requests(
-        [
-            Request.from_url(url, label='listing')
-            for link in shoe_listing_links
-            if (url := await link.get_attribute('href'))
-        ]
-    )
-```
+
 
 # Extract data from product details
 
@@ -253,6 +245,8 @@ add this to `main.py` file:
             "description": "Limits the maximum number of results, applies to each search separately.",
             "default": 10
         }
+}}
+
 ```
 
 - Let's update the code(`main.py`) to accept input parameters.
