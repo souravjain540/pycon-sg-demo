@@ -11,7 +11,9 @@ Goal: To scrape all the shoes from all the categories and store details like URL
 - [Install pipx](https://pipx.pypa.io/stable/installation/): `brew install pipx`
 - [Install poetry](https://python-poetry.org/docs/): `pipx install poetry`
 - [Install Crawlee](https://crawlee.dev/python/docs/quick-start): `python -m pip install 'crawlee[all]'`
+- Make an Apify account(with 100usd free credits)= https://console.apify.com/sign-up?couponId=PYCONSG
 - [Install Apify CLI](https://docs.apify.com/cli/): `npm i -g apify-cli`
+  
 
 # Project start
 
